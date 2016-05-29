@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Заметки by Navarnov</string>
+    <string name="new_zamet">Новая заметка</string>
+    <string name="redact">Редактирование</string>
+    <string name="btnzapis">Создать запись</string>
+    <string name="btnsave">Сохранить запись</string>
+    <string name="btnsave2">Редактировать запись</string>
+    <string name="img">img</string>
+    <string-array name="array">
+        <item>one</item>
+        <item>two</item>
+        <item>three</item>
+        <item>foor</item>
+    </string-array>
+</resources>
